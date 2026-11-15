@@ -1,1 +1,13 @@
+## Screenshots
 
+### 1. IAM Users Created
+![IAM Users](screenshots/01-iam-users-created)
+
+### 2. IAM Groups Created
+![IAM Groups](screenshots/02-iam-groups-created)
+
+### 3. Developer Permission Verification
+![Developer Permissions](screenshots/03-developer-permission-test)
+
+### 4. Auditor Permission Verification
+![Auditor Permissions](screenshots/04-auditor-permission-test)
